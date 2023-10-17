@@ -1,0 +1,1 @@
+*NVM* is a set of nepali characters (or Nepali varna mala , Nepali:नेपाली वर्ण माला).  The svg files contains the stroke order while writing the nepali characters. A sample python file is also included that can read and modify the SVG content and export the result to a png format.
